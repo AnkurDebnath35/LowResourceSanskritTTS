@@ -1,0 +1,491 @@
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0953.wav|﻿वक्त्राणि ते त्वरमाणा विशन्ति दंष्ट्राकरालानि भयानकानि ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0850.wav|﻿उच्चैःश्रवसमश्वानां विद्धि माममृतोद्भवम् ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0975.wav|﻿कर्णं तथान्यानपि योधवीरान् ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0976.wav|﻿युध्यस्व जेतासि रणे सपत्नान् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0896.wav|﻿इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0223.wav|﻿जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम् ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0008.wav|व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1076.wav|﻿विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् ।         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0707.wav|﻿यः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति ॥   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1317.wav|﻿सत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0968.wav|﻿ऋतेऽपि त्वां न भविष्यन्ति सर्वे      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0765.wav|﻿त्रैविद्या मां सोमपाः पूतपापायज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयन्ते ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1333.wav|﻿अप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0525.wav|﻿योगी युञ्जीत सततमात्मानं रहसि स्थितः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0638.wav|﻿तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0499.wav|﻿ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1402.wav|﻿प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1236.wav|﻿प्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1437.wav|श्रीभगवानुवाच ।         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0749.wav|﻿मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1456.wav|﻿अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0315.wav|﻿न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0531.wav|समं कायशिरोग्रीवं धारयन्नचलं स्थिरः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0532.wav|﻿सम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0005.wav|दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0098.wav|﻿सञ्जय उवाच ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0881.wav|﻿विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1254.wav|﻿मामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयकाः ॥        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1025.wav|﻿भवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित् ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0086.wav|﻿अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1472.wav|﻿तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0013.wav|युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0541.wav|﻿यदा विनियतं चित्तमात्मन्येवावतिष्ठते ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0485.wav|﻿कर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0341.wav|श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0817.wav|﻿नाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0818.wav|अर्जुन उवाच	।
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1484.wav|﻿कस्माच्च ते न नमेरन्महात्मन्       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0839.wav|﻿मरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0570.wav|﻿सुखं वा यदि वा दुःखं स योगी परमो मतः ॥ 
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0311.wav|﻿कर्मणैव हि संसिद्धिमास्थिता जनकादयः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0691.wav|﻿मूर्ध्न्याधायात्मनः प्राणमास्थितो योगधारणाम् ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1393.wav|﻿असक्तं सर्वभृच्चैव निर्गुणं गुणभोक्तृ च ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1394.wav|﻿बहिरन्तश्च भूतानामचरं चरमेव च ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0597.wav|﻿पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0598.wav|﻿जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0833.wav|﻿श्रीभगवानुवाच ।         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0834.wav|﻿हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1267.wav|﻿श्रीभगवानुवाच ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1049.wav|﻿क्रियते बहुलायासं तद्राजसमुदाहृतम् ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0695.wav|﻿तस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0534.wav|﻿ममनः संयम्य मच्चित्तो युक्त आसीत मत्परः ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0777.wav|﻿पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।  
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0778.wav|﻿तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0527.wav|﻿शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0641.wav|﻿आस्थितः स हि युक्तात्मा मामेवानुत्तमां गतिम् ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1190.wav|﻿अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1327.wav|﻿रजस्तमश्चाभिभूय सत्त्वं भवति भारत ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0890.wav|﻿योगेश्वर ततो मे त्वं दर्शयात्मानमव्ययम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0512.wav|﻿योगारूढस्य तस्यैव शमः कारणमुच्यते ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0020.wav|नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0017.wav|भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0729.wav|﻿राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1284.wav|﻿श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1027.wav|﻿साङ्ख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1028.wav|﻿अधिष्ठानं तथा कर्ता करणं च पृथग्विधम् ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0762.wav|﻿प्रभवः प्रलयः स्थानं निधानं बीजमव्ययम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0048.wav|﻿योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1174.wav|आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0667.wav|﻿किं तद् ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0536.wav|﻿शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0258.wav|﻿तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1448.wav|﻿तेषामहं समुद्धर्ता मृत्युसंसारसागरात् ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1428.wav|﻿यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0430.wav|﻿बहूनि मे व्यतीतानि जन्मानि तव चार्जुन ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1035.wav|﻿हत्वाऽपि स इमाँल्लोकान्न हन्ति न निबध्यते ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0993.wav|﻿नाहं वेदैर्न तपसा न दानेन न चेज्यया ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1182.wav|﻿अफलाकाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0630.wav|﻿त्रिभिर्गुणमयैर्भावैरेभिः सर्वमिदं जगत् ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0658.wav|﻿इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1185.wav|﻿इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1055.wav|﻿हर्षशोकान्वितः कर्ता राजसः परिकीर्तितः ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0893.wav|﻿नानाविधानि दिव्यानि नानावर्णाकृतीनि च ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0894.wav|﻿पश्यादित्यान्वसून्रुद्रानश्विनौ मरुतस्तथा ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0233.wav|﻿आत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0234.wav|﻿दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1152.wav|﻿व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0492.wav|﻿अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0892.wav|﻿पश्य मे पार्थ रूपाणि शतशोऽथ सहस्रशः ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1060.wav|﻿प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1058.wav|﻿बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं श‍ृणु ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0231.wav|﻿श्रीभगवानुवाच ।         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0232.wav|﻿प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0937.wav|﻿स्वस्तीत्युक्त्वा महर्षिसिद्धसङ्घा स्तुवन्ति त्वां स्तुतिभिः पुष्कलाभिः ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0210.wav|﻿त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1138.wav|﻿न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1162.wav|﻿तेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः ॥   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1068.wav|﻿यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1405.wav|﻿पुरुषः सुखदुःखानां भोक्तृत्वे हेतुरुच्यते ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0425.wav|﻿भक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0426.wav|﻿अर्जुन उवाच ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1461.wav|﻿निर्ममो निरहङ्कारः समदुःखसुखः क्षमी ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0250.wav|﻿रागद्वेषविमुक्तैस्तु विषयानिन्द्रियैश्चरन् ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1375.wav|﻿इन्द्रियाणि दशैकं च पञ्च चेन्द्रियगोचराः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0329.wav|﻿प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0330.wav|तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0775.wav|﻿यान्ति देवव्रता देवान्पितॄन्यान्ति पितृव्रताः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0776.wav|﻿भूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम् ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1331.wav|﻿लोभः प्रवृत्तिरारम्भः कर्मणामशमः स्पृहा ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1332.wav|﻿रजस्येतानि जायन्ते विवृद्धे भरतर्षभ ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0320.wav|﻿सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0494.wav|﻿यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0378.wav|इन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0120.wav|﻿कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1197.wav|﻿क्रियते तदिह प्रोक्तं राजसं चलमध्रुवम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0602.wav|﻿कर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0795.wav﻿|श्रीभगवानुवाच ।         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0053.wav|﻿भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0198.wav|﻿एषा तेऽभिहिता साङ्ख्ये बुद्धिर्योगे त्विमां श‍ृणु ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1009.wav|﻿त्यागो हि पुरुषव्याघ्र त्रिविधः सम्प्रकीर्तितः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0463.wav|﻿शारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0477.wav|﻿स्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0478.wav|﻿अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0021.wav|अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0154.wav|﻿अजो नित्यः शाश्वतोऽयं पुराणो       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0595.wav|﻿तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1397.wav|﻿भूतभर्तृ च तज्ज्ञेयं ग्रसिष्णु प्रभविष्णु च ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1200.wav|﻿दातव्यमिति यद्दानं दीयतेऽनुपकारिणे ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1124.wav|﻿तमेव शरणं गच्छ सर्वभावेन भारत ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0366.wav|﻿निर्द्वन्द्वो हि महाबाहो सुखं बन्धात्प्रमुच्यते ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0036.wav|﻿धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0163.wav|﻿न चैनं क्लेदयन्त्यापो न शोषयति मारुतः ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0819.wav|परं ब्रह्म परं धाम पवित्रं परमं भवान् ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0482.wav|﻿यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1187.wav|﻿श्रद्धाविरहितं यज्ञं तामसं परिचक्षते ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1434.wav|अर्जुन  उवाच ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0799.wav|﻿अहमादिर्हि देवानां महर्षीणां च सर्वशः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0513.wav|﻿यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1127.wav|﻿विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1128.wav|﻿सर्वगुह्यतमं भूयः श‍ृणु मे परमं वचः ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0372.wav|﻿योगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1277.wav|﻿द्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञैर्गच्छन्त्यमूढाः पदमव्ययं तत् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1278.wav|﻿न तद्भासयते सूर्यो न शशाङ्को न पावकः ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0063.wav|﻿वेपथुश्च शरीरे मे रोमहर्षश्च जायते ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0412.wav|﻿अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1381.wav|﻿जन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम् ॥         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1088.wav|﻿कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1114.wav|चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1477.wav|﻿नमोऽस्तु ते सर्वत एव सर्व ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0919.wav|﻿पश्यामि त्वां सर्वतोऽनन्तरूपम् ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0920.wav|﻿नान्तं न मध्यं न पुनस्तवादिं      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0307.wav|नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0308.wav|﻿न चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1041.wav﻿|अविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1042.wav|﻿पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1272.wav|﻿न रूपमस्येह तथोपलभ्यते नान्तो न चादिर्न च सम्प्रतिष्ठा ।  
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1465.wav|﻿हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1255.wav|﻿तानहं द्विषतः क्रूरान्संसारेषु नराधमान् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1149.wav|﻿सञ्जय उवाच ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1150.wav|﻿इत्यहं वासुदेवस्य पार्थस्य च महात्मनः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0898.wav|﻿न तु मां शक्यसे द्रष्टुमनेनैव स्वचक्षुषा ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0367.wav|﻿साङ्ख्ययोगौ पृथग्बालाः प्रवदन्ति न पण्डिताः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0368.wav|﻿एकमप्यास्थितः सम्यगुभयोर्विन्दते फलम् ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1374.wav|﻿महाभूतान्यहङ्कारो बुद्धिरव्यक्तमेव च ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1077.wav|﻿परिणामे विषमिव तत्सुखं राजसं स्मृतम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1422.wav|﻿प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वशः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0110.wav|﻿कथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0403.wav|﻿ये हि संस्पर्शजा भोगा दुःखयोनय एव ते ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0326.wav|अहङ्कारविमूढात्मा कर्ताहमिति मन्यते ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0787.wav|﻿क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0788.wav|﻿कौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0417.wav|﻿भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0593.wav|﻿अथवा योगिनामेव कुले भवति धीमताम् ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0322.wav|﻿कुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसङ्ग्रहम् ॥         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0087.wav|﻿स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0718.wav|﻿शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0612.wav|﻿भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0141.wav|﻿आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ॥        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0354.wav|पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0530.wav|﻿उपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये ॥        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0650.wav|﻿अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0349.wav|धूमेनाव्रियते वह्निर्यथादर्शो मलेन च ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0350.wav|यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0912.wav|﻿प्रणम्य शिरसा देवं कृताञ्जलिरभाषत ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0573.wav|﻿एतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम्      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1104.wav|विविक्तसेवी लघ्वाशी यतवाक्कायमानसः ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0203.wav|बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0023.wav|अयनेषु च सर्वेषु यथाभागमवस्थिताः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0046.wav|﻿यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान्         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0248.wav|﻿क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0948.wav|﻿दंष्ट्राकरालानि च ते मुखानि       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0738.wav|﻿तथा सर्वाणि भूतानि मत्स्थानीत्युपधारय ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0422.wav|﻿एवं परम्पराप्राप्तमिमं राजर्षयो विदुः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1132.wav|﻿सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1243.wav|﻿इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1383.wav|﻿नित्यं च समचित्तत्वमिष्टानिष्टोपपत्तिषु ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0151.wav|﻿उभौ तौ न विजानीतो नायं हन्ति न हन्यते ॥  
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0348.wav|महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0116.wav|﻿न चैतद्विद्मः कतरन्नो गरीयो       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0814.wav|﻿तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0861.wav|﻿अध्यात्मविद्या विद्यानां वादः प्रवदतामहम् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0862.wav|﻿अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0723.wav|﻿दानेषु यत्पुण्यफलं प्रदिष्टम् ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0509.wav|यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1349.wav|अर्जुन उवाच ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1350.wav|﻿कैर्लिङ्गैस्त्रीन्गुणानेतानतीतो भवति प्रभो ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0867.wav|﻿मासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1048.wav|﻿यत्तु कामेप्सुना कर्म साहङ्कारेण वा पुनः ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0829.wav|﻿कथं विद्यामहं योगिंस्त्वां सदा परिचिन्तयन् ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1496.wav|﻿जित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम् ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1144.wav|﻿कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1304.wav|﻿यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1385.wav|﻿विविक्तदेशसेवित्वमरतिर्जनसंसदि ॥         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1386.wav|﻿अध्यात्मज्ञाननित्यत्वं तत्त्वज्ञानार्थदर्शनम् ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0363.wav|﻿संन्यासः कर्मयोगश्च निःश्रेयसकरावुभौ ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0537.wav|﻿नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0287.wav|﻿नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0288.wav|﻿शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0771.wav|﻿येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयान्विताः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1257.wav|﻿आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0782.wav|﻿संन्यासयोगयुक्तात्मा विमुक्तो मामुपैष्यसि ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0688.wav|﻿यदक्षरं वेदविदो वदन्तिविशन्ति यद्यतयो वीतरागाः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0674.wav|﻿अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0587.wav|﻿त्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0941.wav|﻿रूपं महत्ते बहुवक्त्रनेत्रं        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0488.wav|﻿तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1016.wav|﻿दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत् ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1348.wav|﻿जन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते ॥         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0030.wav|﻿माधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0651.wav|देवान्देवयजो यान्ति मद्भक्ता यान्ति मामपि ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0652.wav|﻿अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धयः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0751.wav|﻿महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0061.wav|﻿दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0225.wav|﻿तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0226.wav|﻿श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0455.wav|﻿अकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1167.wav|﻿श्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः ॥   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0679.wav|﻿तं तमेवैति कौन्तेय सदा तद्भावभावितः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1359.wav|﻿मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1360.wav|﻿सर्वारम्भपरित्यागी गुणातीतः स उच्यते ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0201.wav|﻿स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0627.wav|﻿धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0628.wav|﻿ये चैव सात्त्विका भावा राजसास्तामसाश्च ये ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1007.wav|﻿यज्ञदानतपःकर्म न त्याज्यमिति चापरे ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0683.wav|﻿परमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0171.wav|﻿तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1221.wav|﻿अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0927.wav|﻿सनातनस्त्वं पुरुषो मतो मे ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0944.wav|﻿नभःस्पृशं दीप्तमनेकवर्णं         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1157.wav|﻿विस्मयो मे महान् राजन्हृष्यामि च पुनः पुनः ॥   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1033.wav|﻿पश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0175.wav|﻿तथैव चान्यः ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0635.wav|﻿माययापहृतज्ञाना आसुरं भावमाश्रिताः ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0375.wav|﻿नैव किञ्चित्करोमीति युक्तो मन्येत तत्त्ववित् ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0376.wav|पश्यञ्श‍ृण्वन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपञ्श्वसन् ॥         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1000.wav|अर्जुन उवाच ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0837.wav|﻿अहमादिश्च मध्यं च भूतानामन्त एव च ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0838.wav|﻿आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0339.wav|इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0495.wav|﻿ज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0496.wav|﻿न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0809.wav|﻿सोऽविकम्पेन योगेन युज्यते नात्र संशयः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0810.wav|﻿अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0990.wav|﻿निर्वैरः सर्वभूतेषु यः स मामेति पाण्डव ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0579.wav|﻿असंयतात्मना योगो दुष्प्राप इति मे मतिः ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0580.wav|﻿श्रीभगवानुवाच ।         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0466.wav|﻿गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0789.wav|﻿मां हि पार्थ व्यपाश्रित्य येऽपि स्युः पापयोनयः ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1003.wav|श्रभगवानुवाच ।         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1357.wav|समदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1358.wav|﻿तुल्यप्रियाप्रियो धीरस्तुल्यनिन्दात्मसंस्तुतिः ॥        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1353.wav|﻿प्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0078.wav|﻿तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0009.wav|अत्र शूरा महेष्वासा भीमार्जुनसमा युधि ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0159.wav|﻿नवानि गृह्णाति नरोऽपराणि ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1146.wav|﻿अर्जुन उवाच ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1169.wav|﻿प्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जनाः ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0949.wav|﻿दृष्ट्वैव कालानलसन्निभानि ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0407.wav|﻿योऽन्तःसुखोऽन्तरारामस्तथान्तर्ज्योतिरेव यः ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0797.wav|﻿यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0798.wav|﻿न मे विदुः सुरगणाः प्रभवं न महर्षयः ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1226.wav|﻿अज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1093.wav|﻿स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1163.wav|﻿श्रीभगवानुवाच ।         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1164.wav|﻿त्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0732.wav|﻿अप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1443.wav|﻿ते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0722.wav|﻿वेदेषु यज्ञेषु तपःसु चैव       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0291.wav|﻿सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0869.wav|﻿जयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0801.wav|﻿असम्मूढः स मर्त्येषु सर्वपापैः प्रमुच्यते ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0802.wav|﻿बुद्धिर्ज्ञानमसम्मोहः क्षमा सत्यं दमः शमः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1011.wav|﻿यज्ञो दानं तपश्चैव पावनानि मनीषिणाम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1012.wav|﻿एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0083.wav|﻿कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0084.wav|﻿कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1429.wav|﻿सर्वत्रावस्थितो देहे तथात्मा नोपलिप्यते ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1430.wav|﻿यथा प्रकाशयत्येकः कृत्स्नं लोकमिमं रविः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1266.wav|﻿ज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1475.wav|﻿श्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0397.wav|﻿इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1232.wav|﻿न शौचं नापि चाचारो न सत्यं तेषु विद्यते ॥  
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1195.wav|﻿अफलाकाङ्क्षिभिर्युक्तैः सात्त्विकं परिचक्षते ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0243.wav|﻿इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0244.wav|﻿तानि सर्वाणि संयम्य युक्त आसीत मत्परः ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0843.wav|﻿वसूनां पावकश्चास्मि मेरुः शिखरिणामहम् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0844.wav|﻿पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम् ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0169.wav|﻿तथापि त्वं महाबाहो नैवं शोचितुमर्हसि ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0327.wav|﻿तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0328.wav|गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते ॥   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1153.wav|﻿योगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम् ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0317.wav|﻿यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0620.wav|﻿रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0590.wav|﻿न हि कल्याणकृत्कश्चिद् दुर्गतिं तात गच्छति ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1340.wav|﻿रजसस्तु फलं दुःखमज्ञानं तमसः फलम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1097.wav|﻿सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1098.wav|असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0187.wav|﻿अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम् ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1070.wav|﻿यया स्वप्नं भयं शोकं विषादं मदमेव च ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1390.wav|﻿सर्वतः पाणिपादं तत्सर्वतोऽक्षिशिरोमुखम् ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1115.wav|बुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1105.wav|ध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1106.wav|अहङ्कारं बलं दर्पं कामं क्रोधं परिग्रहम् ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0614.wav|﻿अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम् ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1297.wav|﻿वेदैश्च सर्वैरहमेव वेद्यो वेदान्तकृद्वेदविदेव चाहम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1298.wav|﻿द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0653.wav|﻿परं भावमजानन्तो ममाव्ययमनुत्तमम् ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0654.wav|﻿नाहं प्रकाशः सर्वस्य योगमायासमावृतः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1209.wav|﻿प्रवर्तन्ते विधानोक्ताः सततं ब्रह्मवादिनाम् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0877.wav|﻿एष तूद्देशतः प्रोक्तो विभूतेर्विस्तरो मया ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0302.wav|तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0676.wav|﻿अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0385.wav|﻿सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0360.wav|﻿संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0475.wav|﻿आत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0074.wav|﻿एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0344.wav|अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0959.wav|﻿लेलिह्यसे ग्रसमानः समन्ताल् लोकान्समग्रान्वदनैर्ज्वलद्भिः ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0155.wav|﻿न हन्यते हन्यमाने शरीरे ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0553.wav|﻿सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0815.wav|﻿ददामि बुद्धियोगं तं येन मामुपयान्ति ते ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0337.wav|सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0338.wav|प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0583.wav|﻿अप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0584.wav|﻿कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1481.wav|﻿नमो नमस्तेऽस्तु सहस्रकृत्वः पुनश्च भूयोऽपि नमो नमस्ते ॥   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0823.wav|﻿सर्वमेतदृतं मन्ये यन्मां वदसि केशव ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0310.wav|﻿असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1417.wav|﻿क्षेत्रक्षेत्रज्ञसंयोगात्तद्विद्धि भरतर्षभ ॥        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0857.wav|﻿मृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1485.wav|﻿गरीयसे ब्रह्मणोऽप्यादिकर्त्रे ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0451.wav|﻿कुरु कर्मैव तस्मात्त्वं पूर्वैः पूर्वतरं कृतम् ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0123.wav|﻿शाधि मां त्वां प्रपन्नम् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1166.wav|﻿सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0101.wav|﻿सञ्जय उवाच ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0415.wav|﻿यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः ।         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1126.wav|﻿इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1234.wav|﻿अपरस्परसम्भूतं किमन्यत्कामहैतुकम् ॥        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1345.wav|﻿नान्यं गुणेभ्यः कर्तारं यदा द्रष्टानुपश्यति ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1388.wav|﻿ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वामृतमश्नुते ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0660.wav|﻿येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम् ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0473.wav|﻿शब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0585.wav|﻿अप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0988.wav|﻿कस्माच्च ते न नमेरन्महात्मन्       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0089.wav|﻿उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0108.wav|﻿क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0056.wav|﻿तुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ॥         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1247.wav|﻿आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0575.wav|﻿स्याहं निग्रहं मन्ये वायोरिव सुदुष्करम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0576.wav|﻿श्रीभगवानुवाच ।         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1241.wav|﻿आशापाशशतैर्बद्धाः कामक्रोधपरायणाः ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0092.wav|﻿उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0793.wav|﻿मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0794.wav|﻿मामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1470.wav|﻿समः शत्रौ च मित्रे च तथा मानापमानयोः ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0186.wav|﻿ततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0558.wav|﻿ततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0792.wav|﻿अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0661.wav|﻿ते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0508.wav|﻿स संन्यासी च योगी च न निरग्निर्न चाक्रियः ॥  
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1288.wav|﻿यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0955.wav|﻿यथा नदीनां बहवोऽम्बुवेगा समुद्रमेवाभिमुखा द्रवन्ति ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0443.wav|﻿मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0444.wav|﻿काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1411.wav|﻿सर्वथा वर्तमानोऽपि न स भूयोऽभिजायते ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1183.wav|﻿यष्टव्यमेवेति मनः समाधाय स सात्त्विकः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0489.wav|﻿उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0235.wav|﻿वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ॥        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0971.wav|जित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम् ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0972.wav|﻿मयैवैते निहताः पूर्वमेव        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0618.wav|﻿मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0643.wav|﻿वासुदेवः सर्वमिति स महात्मा सुदुर्लभः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0314.wav|﻿स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0780.wav|﻿यत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0003.wav|मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0958.wav|﻿तथैव नाशाय विशन्ति लोकास् तवापि वक्त्राणि समृद्धवेगाः ॥   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1431.wav|﻿क्षेत्रं क्षेत्री तथा कृत्स्नं प्रकाशयति भारत ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1239.wav|﻿चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0963.wav|﻿विज्ञातुमिच्छामि भवन्तमाद्यं         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0551.wav|﻿तं विद्याद् दुःखसंयोगवियोगं योगसंज्ञितम् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0382.wav|﻿योगिनः कर्म कुर्वन्ति सङ्गं त्यक्त्वात्मशुद्धये ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1329.wav|﻿सर्वद्वारेषु देहेऽस्मिन्प्रकाश उपजायते ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0015.wav|अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0016.wav|नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0428.wav|﻿कथमेतद्विजानीयां त्वमादौ प्रोक्तवानिति ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0828.wav|﻿याभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0847.wav|﻿यज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालयः ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0709.wav|﻿यं प्राप्य न निवर्तन्ते तद्धाम परमं मम ॥   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1408.wav|﻿उपद्रष्टानुमन्ता च भर्ता भोक्ता महेश्वरः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1122.wav|﻿ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0289.wav|﻿यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0290.wav|﻿तदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0805.wav|﻿भवन्ति भावा भूतानां मत्त एव पृथग्विधाः ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0145.wav|﻿उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः ॥        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1043.wav|﻿वेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम् ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1380.wav|﻿इन्द्रियार्थेषु वैराग्यमनहङ्कार एव च ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1299.wav|﻿क्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1269.wav|﻿छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ॥   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1101.wav|समासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1473.wav|﻿अनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1474.wav|﻿ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0332.wav|निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0915.wav|﻿सर्वांस्तथा भूतविशेषसङ्घान् ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0191.wav|﻿अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0065.wav|﻿न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ॥   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0413.wav|﻿स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवोः ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0440.wav|﻿वीतरागभयक्रोधा मन्मया मामुपाश्रिताः ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1054.wav|﻿रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0951.wav|﻿अमी च त्वां धृतराष्ट्रस्य पुत्राः सर्वे सहैवावनिपालसङ्घैः ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0909.wav|﻿तत्रैकस्थं जगत्कृत्स्नं प्रविभक्तमनेकधा ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0910.wav|﻿अपश्यद्देवदेवस्य शरीरे पाण्डवस्तदा ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0424.wav|﻿स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0742.wav|﻿भूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात् ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0285.wav|﻿यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0851.wav|﻿ऐरावतं गजेन्द्राणां नराणां च नराधिपम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0178.wav|﻿देही नित्यमवध्योऽयं देहे सर्वस्य भारत ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1392.wav|﻿सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम् ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0100.wav|विसृज्य सशरं चापं शोकसंविग्नमानसः ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1065.wav|﻿सर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0903.wav|﻿अनेकवक्त्रनयनमनेकाद्भुतदर्शनम् ।         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0904.wav|﻿अनेकदिव्याभरणं दिव्यानेकोद्यतायुधम् ॥        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0277.wav|﻿लोकेऽस्मिन् द्विविधा निष्ठा पुरा प्रोक्ता मयानघ ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0237.wav|﻿नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0238.wav|﻿यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0669.wav|﻿अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0884.wav|﻿यत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0184.wav|﻿सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम् ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1480.wav|﻿वायुर्यमोऽग्निर्वरुणः शशाङ्कःप्रजापतिस्त्वं प्रपितामहश्च ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0162.wav|﻿नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0518.wav|﻿अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1289.wav|﻿यतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0467.wav|﻿यज्ञायाचरतः कर्म समग्रं प्रविलीयते ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0374.wav|﻿सर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0242.wav|﻿यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0356.wav|मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0251.wav|﻿आत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति ॥        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1176.wav|﻿आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः ।         
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0137.wav|﻿न चैव न भविष्यामः सर्वे वयमतः परम् ॥   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0568.wav|﻿सर्वथा वर्तमानोऽपि स योगी मयि वर्तते ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0807.wav|﻿मद्भावा मानसा जाता येषां लोक इमाः प्रजाः ॥   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0808.wav|﻿एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः ।  
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0284.wav|﻿इन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1039.wav|﻿प्रोच्यते गुणसङ्ख्याने यथावच्छृणु तान्यपि ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1040.wav|﻿सर्वभूतेषु येनैकं भावमव्ययमीक्षते ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0544.wav|﻿योगिनो यतचित्तस्य युञ्जतो योगमात्मनः ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1440.wav|﻿ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते ।       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0886.wav|﻿त्वत्तः कमलपत्राक्ष माहात्म्यमपि चाव्ययम् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0300.wav|﻿यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1400.wav|﻿इति क्षेत्रं तथा ज्ञानं ज्ञेयं चोक्तं समासतः ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0273.wav|तत्किं कर्मणि घोरे मां नियोजयसि केशव ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0786.wav|﻿साधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0872.wav|﻿दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0632.wav|दैवी ह्येषा गुणमयी मम माया दुरत्यया ।    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0759.wav|﻿पिताहमस्य जगतो माता धाता पितामहः ।     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0725.wav|﻿योगी परं स्थानमुपैति चाद्यम् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0905.wav|﻿दिव्यमाल्याम्बरधरं दिव्यगन्धानुलेपनम् ।        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0549.wav|﻿यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः ।   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1133.wav|﻿अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0853.wav|प्रजनश्चास्मि कन्दर्पः सर्पाणामस्मि वासुकिः ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0854.wav|﻿अनन्तश्चास्मि नागानां वरुणो यादसामहम् ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0079.wav|﻿स्वजनं हि कथं हत्वा सुखिनः स्याम माधव ॥   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0902.wav|﻿दर्शयामास पार्थाय परमं रूपमैश्वरम् ॥      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1230.wav|﻿दैवो विस्तरशः प्रोक्त आसुरं पार्थ मे श‍ृणु ॥   
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1227.wav|﻿दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता ।      
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1228.wav|﻿मा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0621.wav|﻿प्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु ॥    
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0112.wav|﻿गुरूनहत्वा हि महानुभावान्        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0052.wav|﻿सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ॥       
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0269.wav|﻿स्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति ॥        
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_1155.wav|﻿केशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः ॥     
+skt_dataset_folder/wavs/MILE_99_SPK_9999_UTT_0559.wav|﻿प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम् ।      
