@@ -2,7 +2,7 @@
  
  
 
-PyTorch implementation of [Low-resource end-to-end sanskrit tts using tacotron2, waveglow and transfer learning](https://ieeexplore.ieee.org/abstract/document/9342071). 
+PyTorch implementation of [Low-resource end-to-end sanskrit tts using tacotron2, waveglow and transfer learning](https://arxiv.org/abs/2212.03558). 
 
 This implementation includes **distributed** and **automatic mixed precision** support
 and uses a custom [Sanskrit Dataset](https://drive.google.com/drive/folders/1vuTQxtLvpE79t1gWvjAAmBIVOnRA0rcw?usp=share_link).
