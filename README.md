@@ -19,7 +19,7 @@ Download published [Tacotron 2] and
 1. NVIDIA GPU + CUDA cuDNN
 
 ## Setup
-1. Download and extract the [LJ Speech dataset](https://keithito.com/LJ-Speech-Dataset/)
+1. Download and extract the [Sanskrit dataset](https://drive.google.com/drive/folders/1vuTQxtLvpE79t1gWvjAAmBIVOnRA0rcw?usp=share_link)
 2. Clone this repo: `git clone https://github.com/NVIDIA/tacotron2.git`
 3. CD into this repo: `cd tacotron2`
 4. Initialize submodule: `git submodule init; git submodule update`
@@ -45,8 +45,8 @@ By default, the dataset dependent text embedding layers are [ignored]
 1. `python -m multiproc train.py --output_directory=outdir --log_directory=logdir --hparams=distributed_run=True,fp16_run=True`
 
 ## Inference demo
-1. Download our published [Tacotron 2] model
-2. Download our published [WaveGlow] model
+1. Download published [Tacotron 2] model
+2. Download published [WaveGlow] model
 3. `jupyter notebook --ip=127.0.0.1 --port=31337`
 4. Load inference.ipynb 
 
